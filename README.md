@@ -13,4 +13,8 @@
 	<td>118.405.484-36</td>
 	<td>Vinicius S. Almeida</td>
   </tr>
+  <tr>
+	<td>702.010.064-30</td>
+	<td>Daniel B. G. dos Angelos</td>
+  </tr>
 </table>
